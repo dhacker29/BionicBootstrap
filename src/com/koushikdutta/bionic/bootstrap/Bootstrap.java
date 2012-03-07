@@ -117,7 +117,7 @@ public class Bootstrap extends Activity {
         });
     }
 
-    final static String LOGTAG = "DroidXBootstrap";
+    final static String LOGTAG = "BionicBootstrap";
     final static String ZIP_FILTER = "assets";
     
     void unzipAssets() {
