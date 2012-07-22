@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Bionic Bootstrapper</string>
-    <string name="flash">Bootstrap Recovery</string>
-    <string name="reboot_recovery">Reboot Recovery</string>
+    <string name="app_name">Bionic ICS Bootstrapper</string>
+    <string name="flash">Bootstrap ICS Recovery</string>
+    <string name="reboot_recovery">Reboot ICS Recovery</string>
 </resources>

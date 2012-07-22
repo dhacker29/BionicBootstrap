@@ -1,4 +1,4 @@
-package com.koushikdutta.bionic.bootstrap;
+package com.stsdevteam.bionic.bootstrap;
 
 import android.app.Service;
 import android.content.Intent;

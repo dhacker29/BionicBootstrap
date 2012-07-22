@@ -1,4 +1,4 @@
-package com.koushikdutta.bionic.bootstrap;
+package com.stsdevteam.bionic.bootstrap;
 
 import java.io.File;
 import java.io.FileInputStream;

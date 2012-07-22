@@ -1,4 +1,4 @@
-package com.koushikdutta.bionic.bootstrap;
+package com.stsdevteam.bionic.bootstrap;
 
 import java.io.BufferedOutputStream;
 import java.io.File;
@@ -10,7 +10,7 @@ import java.util.Vector;
 import java.util.zip.ZipEntry;
 import java.util.zip.ZipFile;
 
-import com.koushikdutta.bionic.bootstrap.R;
+import com.stsdevteam.bionic.bootstrap.R;
 
 import android.app.Activity;
 import android.app.AlertDialog;
@@ -117,7 +117,7 @@ public class Bootstrap extends Activity {
         });
     }
 
-    final static String LOGTAG = "DroidXBootstrap";
+    final static String LOGTAG = "BIONICBootstrap";
     final static String ZIP_FILTER = "assets";
     
     void unzipAssets() {
